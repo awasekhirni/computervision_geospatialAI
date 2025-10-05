@@ -1,0 +1,55 @@
+New tasks without extensive training 
+- zero-shot prompting (Radford et al.2019)
+- Few-shot prompting (Brown et al.2020)
+
+Reasoning and Logic 
+
+Chain of Thought Prompting (Wei et al. 2022)
+Automatic chain of Thought (Zhang et. al. 2022)
+Self-Consistency (Wang et al. 2022)
+Logical CoT Prompting (Zhao et al. 2023)
+Chain of Symbol (CoS) Prompting (Hu et al. 2023)
+Tree of Thoughts Prompting (Yao et al.2023a)
+Graph of Thought Prompting (Yao et al.2023b)
+System 2 Attention Prompting (Weston and Sukhbaatar,2023)
+Thread of Thought Prompting (Zhou et al. 2023)
+Chain of Table Prompting (Wang et al. 2024)
+
+
+Knowledge-Based Reasoning and Generation 
+- Automatic Reasoning and Tool-Use (Paranjape et al. 2023)
+
+Improving Consistency and Coherence 
+- Contrastive Chain of Thought Prompting (Chia et al. 2023)
+
+Code Generation and Execution 
+- Scratchpad Prompting (Nye et al. 2021)
+-Program of Thoughts Prompting (Chen et al., 2022)
+- Structured Chain of Thought (Li et al, 2023c)
+Chain of Code Prompting (Li et al., 2023b)
+
+
+LLMs still do not understand semantics of context.
+
+The above statement is a valid critique. After having spent understanding 
+various prompts and generation of semantic context from various LLM models.
+I think there is still a lot of work that needs to be done for AI to 
+catchup to the levels of human understanding and response. Humans understand
+the word "rolled" based on context, For example: using the word "Awase rolled his eyes,
+when "z" mentioned he is the richest person in the world". or "Z studied from harvard, Awase rolled his eyes"
+or "Awase rolled over with laughter upon Mr.C comments on senior managements integrity".
+Another notable example would be the use of the word "hot" because human's have felt heat, been 
+burned, enjoyed a "hot drink" and endured a "hot day". LLM has only broken sentences 
+into a pattern of tokens associated with other words. Their association is purely 
+derived based on statistical and relational within the language system itself. 
+It uses a set of context window as a technical container of tokens. It processes the entire context window
+each time to predict the next token. This is the case with english. When LLM's are 
+applied to "Arabic", "Urdu" or "Farsi" which are more logical languages, where 
+use of a word in a semantic context has deeper meaning. A measure of AI's effectiveness 
+would be when it creates poetry that resonates with literary audience in a "mushaiyarah". 
+Prompts define the outcome, i have tried to look at different styles of prompts. 
+Over the past year, they have evolved and become more refined. The precision of the query was clearly dependent on 
+how well the prompt was crafted and how it was interpreted.
+Voice prompting has slightly improved but not  to the extent of written role specific prompting.
+Agentic AI has evolved as they are task specific with well defined scope and tasks which computers are good at.
+Still need to read and research more stuff, its still evolving we are looking at a window of 6-7 years evolution for AI here.
